@@ -1,12 +1,12 @@
 # Swachhta-Warrior
 
-##Team Members:
+## Team Members:
 1. Pankaj Bhardwaj
 2. Sameer Chauhan
 3. Bal krishna
 4. Aaryan Shrivastava
 
-##Git Process:
+## Git Process:
 1. Prerequisite: Download and install
    - **Git** command line.
    - **gh** (github) command line.
